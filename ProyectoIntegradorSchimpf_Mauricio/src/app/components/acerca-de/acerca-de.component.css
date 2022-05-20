@@ -2,8 +2,9 @@
     padding: 20px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: rgb(24, 24, 97);
     text-align: center;
+    color:rgb(114, 114, 122);
 }
 
 /*estilo de la foto de perfil*/

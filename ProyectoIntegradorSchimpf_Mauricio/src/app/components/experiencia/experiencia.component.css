@@ -2,7 +2,8 @@
     padding: 20 px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: rgb(24, 24, 97);
+    color: rgb(114, 114, 122);
 }
 h1, h3{
     display: inline;
